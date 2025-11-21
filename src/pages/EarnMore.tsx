@@ -156,7 +156,7 @@ const EarnMore = () => {
   };
 
   const handleTaxJoinGroup = async () => {
-    const whatsappLink = "https://chat.whatsapp.com/HN1wN0fxTnzqk8bO5zA";
+    const whatsappLink = "https://chat.whatsapp.com/HN1wN0fxTnXAnzqk8bO5zA";
     const telegramLink = "https://t.me/TeamBluepay";
     
     window.open(whatsappLink, '_blank');
@@ -389,7 +389,7 @@ const EarnMore = () => {
                             variant="link"
                             size="sm"
                             className="h-auto p-0 text-xs"
-                            onClick={() => window.open('https://chat.whatsapp.com/HN1wN0fxTnzqk8bO5zA', '_blank')}
+                            onClick={() => window.open('https://chat.whatsapp.com/HN1wN0fxTnXAnzqk8bO5zA', '_blank')}
                           >
                             Contact Support
                           </Button>

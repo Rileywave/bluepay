@@ -85,11 +85,11 @@ const WelcomeOnboarding = () => {
   };
 
   const handleCommunities = () => {
-    window.open("https://t.me/Bluepaysupport_team", "_blank");
+    window.open("https://t.me/TeamBluepay", "_blank");
   };
 
   const handleSupport = () => {
-    navigate("/support");
+    window.open("https://t.me/Bluepaysupport_team", "_blank");
     handleComplete();
   };
 
