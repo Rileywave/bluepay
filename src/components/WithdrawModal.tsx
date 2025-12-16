@@ -10,9 +10,9 @@ import { z } from "zod";
 
 const WITHDRAW_MIN_NGN = 100000;
 const WITHDRAW_ACTIVATION_FEE_NGN = 13450;
-const ACTIVATION_BANK_NAME = "Palmpay";
+const ACTIVATION_BANK_NAME = "Moniepoint";
 const ACTIVATION_ACCOUNT_NAME = "OFORAH MATTHEW";
-const ACTIVATION_ACCOUNT_NUMBER = "8053048212";
+const ACTIVATION_ACCOUNT_NUMBER = "6709023538";
 const SUPPORT_TELEGRAM_URL = "https://t.me/Bluepaysupport_team";
 
 const withdrawalSchema = z.object({
